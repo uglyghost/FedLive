@@ -1,0 +1,3 @@
+VideoName,UserIndex,epochCNN,epochRL
+1-2-Front,7,10,10
+accuracy,precision,recall,predicted tile,total size

@@ -1,0 +1,3 @@
+VideoName,UserIndex,epochCNN,epochRL
+1-2-Front,2,10,1000
+running time,epochs,FirstLoss,FinalLoss
